@@ -4,7 +4,7 @@ Classifying the sentiment of Amazon video-game reviews with scikit-learn, compar
 
 ## The task
 
-This is university coursework. The task is to classify the sentiment of Amazon video-game reviews.
+This is BSc coursework. The task is to classify the sentiment of Amazon video-game reviews.
 
 ## Method
 
